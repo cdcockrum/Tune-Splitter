@@ -1,0 +1,30 @@
+{
+  "7f438907161819278f": {
+    "mdx_dim_f_set": 2048,
+    "mdx_dim_t_set": 3,
+    "mdx_n_fft_scale_set": 6144,
+    "primary_stem": "Vocals",
+    "compensate": 1.035
+  },
+  "dba6b5856f4d358c33": {
+    "mdx_dim_f_set": 1024,
+    "mdx_dim_t_set": 3,
+    "mdx_n_fft_scale_set": 4096,
+    "primary_stem": "Main",
+    "compensate": 1.035
+  },
+  "a80226eadd8144226b": {
+    "mdx_dim_f_set": 2048,
+    "mdx_dim_t_set": 3,
+    "mdx_n_fft_scale_set": 6144,
+    "primary_stem": "Instrumental",
+    "compensate": 1.0
+  },
+  "e3db0a7a137a169702": {
+    "mdx_dim_f_set": 2048,
+    "mdx_dim_t_set": 3,
+    "mdx_n_fft_scale_set": 6144,
+    "primary_stem": "Vocals",
+    "compensate": 1.035
+  }
+}
